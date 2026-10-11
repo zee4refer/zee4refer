@@ -15,6 +15,14 @@ Open-source helpers for Indian shops, traders and developers building billing so
 
 More free tools (GST invoice generator, quotation maker, barcode generator, logo maker …): **[billingbazaar.in/tools](https://billingbazaar.in/tools/)**
 
+## Everyday money and home tools
+
+| Repo | What it does | Use it online |
+|---|---|---|
+| [house-help-salary-calculator](https://github.com/zee4refer/house-help-salary-calculator) | Maid / house-help salary with leave deduction, bonus and cost per hour | [open](https://zee4refer.github.io/house-help-salary-calculator/) |
+| [upi-id-validator](https://github.com/zee4refer/upi-id-validator) | Check a UPI ID and see which app and bank its handle belongs to | [open](https://zee4refer.github.io/upi-id-validator/) |
+| [savings-fd-interest-calculator](https://github.com/zee4refer/savings-fd-interest-calculator) | Daily vs quarterly interest and FD maturity | [open](https://zee4refer.github.io/savings-fd-interest-calculator/) |
+
 ## Running a shop rather than writing code?
 
 These repos are building blocks. If you just want GST billing, stock and udhaar sorted for your shop, a billing app does
